@@ -65,7 +65,7 @@ rec.add(
 
 ### <ins> Examples </ins>
 
-<ins> _Archive Example_ </ins>
+<ins> Archive Example </ins>
 
 ```
 [Message]
@@ -86,7 +86,7 @@ Key characteristics:
 "Description of London, England. (Archived 9e63c59908b84572bb6356af3db6a015)"
 ```
 
-<ins> Pertinence Filter and Topic Evaluation Examples_ </ins>
+<ins> Pertinence Filter and Topic Evaluation Examples </ins>
 
 **1. Topic Evaluation Algorithm: Non-Strict Init Message Topic (NSIMT)**
 
@@ -183,7 +183,6 @@ Key characteristics:
 
 [Evaluated Topic]
 "Observations about the natural world"
-
 ```
 
 **6. Topic Evaluation Algorithm: Strict Anchored Topic Evaluation - First 2 Messages (SATE2)**
